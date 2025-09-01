@@ -11,4 +11,5 @@ This is a simple demo for our paper "DEALSD: A Deep Edge Assisted Line Segment D
 
 ## 3. How to use
 - This demo can be easily used by running the `inference.py` file.
-- If it cannot run normally, it may be necessary to recompile LineDetector.src.main with Pybind to adapt to your own environment. Please refer to the specific implementation method https://zhuanlan.zhihu.com/p/545094977
+- If it cannot run normally, it may be necessary to recompile LineDetector.src.main with Pybind to adapt to your own environment. For specific implementation methods (Chinese version), please refer to https://zhuanlan.zhihu.com/p/545094977
+﻿
